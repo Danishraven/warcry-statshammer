@@ -83,7 +83,7 @@ const Skaven: IWarband = {
             profiles: [buildProfile(true, '1', 4, 4, 4, 8)]
         },
         {
-            name: 'Stormfiend with Warpfire Gun',
+            name: 'Rat Ogor with Warpfire Gun',
             profiles: [buildProfile(false, '3-15', 2, 5, 3, 6), buildProfile(true, '1', 3, 4, 4, 8)]
         },
         {
